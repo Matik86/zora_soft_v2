@@ -9,6 +9,7 @@
 
 ## Настройка
 - Добавление прокси просиходит в папке `datas` в файле `DATA.py`, описание там же.
+- В папке `settings` заходим в файлы `settings.py` и `general_settings.py` и настраиваем под себя
 - В папке `datas` в файл `private_keys.txt` добавляем свои приватники.
 - Устанавлием библиотеки: `pip install -r requirements.txt`
 
